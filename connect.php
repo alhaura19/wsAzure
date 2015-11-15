@@ -1,4 +1,4 @@
-<?
+<?php
 $hostname = "br-cdbr-azure-south-a.cloudapp.net";
 $username = "b5d3a2fe926939";
 $password = "1ac57d24";
